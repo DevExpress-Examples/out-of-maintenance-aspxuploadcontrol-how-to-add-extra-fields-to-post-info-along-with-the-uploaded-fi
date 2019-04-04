@@ -1,9 +1,9 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [Default.aspx](./CS/WebSite/Default.aspx) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
+* [Default.aspx](./CS/WebSite/Default.aspx) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
-* [UpoadControl.ascx](./CS/WebSite/UpoadControl.ascx) (VB: [UpoadControl.ascx.vb](./VB/WebSite/UpoadControl.ascx.vb))
+* [UpoadControl.ascx](./CS/WebSite/UpoadControl.ascx) (VB: [UpoadControl.ascx](./VB/WebSite/UpoadControl.ascx))
 * [UpoadControl.ascx.cs](./CS/WebSite/UpoadControl.ascx.cs) (VB: [UpoadControl.ascx.vb](./VB/WebSite/UpoadControl.ascx.vb))
 <!-- default file list end -->
 # ASPxUploadControl - How to add extra fields to post info along with the uploaded file
